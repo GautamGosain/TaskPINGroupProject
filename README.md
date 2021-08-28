@@ -1,5 +1,5 @@
 # TaskPINGroupProject
-Time Management Web App by Students of IIT Delhi
+Time Management Web App by Students of IIT Delhi.
 Contribution of : 
 -Aayush Gupta
 -Adit Malhotra
